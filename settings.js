@@ -17,7 +17,6 @@ Creator : @darkmakerofc , @mr-nima-x
 
 module.exports = {
   OWNER_NUMBER: "2347015667458",
-  OWNER_NUMBER: "2348022159244",
   SUDO_NUMBERS : "2348022159244,2347015667458",
   OWNER_NAME: "𝕸𝖆𝖘𝖙𝖊𝖗 𝕺𝖔𝖌𝖜𝖆𝖞  ☯︎  𝖌𝖗𝖊𝖞 🕊️",
   BOT_NAME : "𝕸𝖆𝖘𝖙𝖊𝖗 𝕺𝖔𝖌𝖜𝖆𝖞'𝖘 𝕭𝖔𝖙",
